@@ -40,3 +40,4 @@ Additionally, a To-do list for projects I am working on or will soon begin.
  - 3D Modeling/creation:  Blender, Maya
  - Audio/Sound FX:  Logic Pro, Pro Tools, Audacity, Soundforge
  - Photoshop & related tools
+ - Illustrator
