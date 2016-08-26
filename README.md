@@ -37,6 +37,6 @@ Additionally, a To-do list for projects I am working on or will soon begin.
  - MongoDB
  - Go
  - Drupal
- - Game engines:  Unity, Unreal, Godot, Construct
+ - Game engines:  Unity, Unreal, Godot, Construct, CryEngine
  - 3D Modeling/creation:  Blender, Maya, Mudbox
  - 3D Rendering:  Vray
