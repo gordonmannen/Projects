@@ -29,7 +29,7 @@ Additionally, a To-do list for projects I am working on or will soon begin.
 
 
 ----------
-**Programming languages/Technology that I want to learn more about**
+**Programming languages/Technology that I want to learn more about:**
 
  - Java
  - C++
