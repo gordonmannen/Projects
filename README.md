@@ -40,3 +40,4 @@ Additionally, a To-do list for projects I am working on or will soon begin.
  - Game engines:  Unity, Unreal, Godot, Construct, CryEngine
  - 3D Modeling/creation:  Blender, Maya, Mudbox
  - 3D Rendering:  Vray
+ - GameMaker:  Studio Pro & Modules (HTML5, iOS, Android, & Windows UWP)
