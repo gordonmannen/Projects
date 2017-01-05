@@ -37,7 +37,14 @@ Additionally, a To-do list for projects I am working on or will soon begin.
  - MongoDB
  - Go
  - Drupal
- - Game engines:  Unity, Unreal, Godot, Construct, CryEngine
- - 3D Modeling/creation:  Blender, Maya, Mudbox
+ - Game engines:  Unreal, Godot, Construct, CryEngine
+ - 3D Modeling/creation:  Maya, Mudbox
  - 3D Rendering:  Vray
- - GameMaker:  Studio Pro & Modules (HTML5, iOS, Android, & Windows UWP)
+ - Image Editors:  Photoshop, GIMP 2
+ - Audacity
+
+
+----------
+**Currently taking some courses on:**
+
+ - Unity 3D & Blender
