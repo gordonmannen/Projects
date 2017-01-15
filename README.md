@@ -40,7 +40,7 @@ Additionally, a To-do list for projects I am working on or will soon begin.
  - Game engines:  Unreal, Godot, Construct, CryEngine
  - 3D Modeling/creation:  Maya, Mudbox
  - 3D Rendering:  Vray
- - Image Editors:  Photoshop, GIMP 2
+ - Image Editors:  Photoshop, GIMP 2, Paint.net
  - Audacity
 
 
